@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import BackButton from "../components/BackButton";
 import agendaData from "../data/agenda.json";
 import "../CSS/Agenda.css";
 
@@ -13,7 +13,7 @@ const Agenda = () => {
   return (
     <div className="agenda-container">
       <div className="row">
-        <Link to="/menu" className="agenda-back-button">←</Link>
+      <BackButton to="/menu" />
       </div>
       <header className="agenda-header">
         <h1 className="agenda-title">AGENDA</h1>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import BackButton from "../../components/BackButton";
 import "./Mahasiswa.css";
 import studentsData from "../../data/StudentsPhoto/students2015.json";
 
@@ -12,8 +12,8 @@ const Mahasiswa2016 = () => {
 
   return (
     <div className="mahasiswa-details-container">
+      <BackButton to="/mahasiswa" />
       <div className="header-row">
-        <Link to="/mahasiswa" className="mahasiswa-back-button">←</Link>
         <h1 className="header-title">MAHASISWA ANGKATAN 2015</h1>
       </div>
       <div className="students-scroll-container">

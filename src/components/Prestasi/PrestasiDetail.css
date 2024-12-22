@@ -1,66 +1,76 @@
 .prestasi-container {
-  padding: 20px;
-  font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  max-height: 100vh;
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
-.pheader-row {
-  display: flex;
-  justify-content: flex-start;
-  margin: 20px 0;
-}
-
-.pback-button {
-  padding: 10px 20px;
-  text-decoration: none;
-  color: white;
-  background-color: #007bff;
-  border-radius: 5px;
-  font-size: 16px;
-  font-weight: bold;
-}
-
-.pback-button:hover {
-  background-color: #0d47a1;
+  align-items: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
 }
 
 .prestasi-header {
+  position: relative; /* Memastikan elemen tetap dalam flow dokumen */
   text-align: center;
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
-
-.prestasi-header {
+.prestasi-text {
   font-size: 28px;
   font-weight: bold;
   color: #333;
-  text-align: center;
 }
 
-.prestasi-image {
-  max-width: 80%;
-  height: auto;
-  margin: 20px 0;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+.prestasi-content {
+  display: flex;
+  justify-content: center; /* Rata tengah gambar dan video secara horizontal */
+  gap: 20px; /* Beri jarak antara gambar dan video */
+  align-items: center; /* Rata tengah secara vertikal */
+  width: 100%;
+  max-width: 1200px; /* Batasi lebar maksimum */
 }
 
+.prestasi-image,
 .prestasi-video {
-  max-width: 80%;
-  margin: 20px 0;
+  flex: 1; /* Membagi ukuran gambar dan video secara merata */
+  max-width: 45%; /* Batasi lebar maksimum setiap elemen */
+  height: auto;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-top: 3cm;
+}
+
+.prestasi-description-box {
+  background-color: white ;
+  opacity: 80%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-top: 20px;
+  max-width: 800px; /* Batasi lebar maksimum box */
+  text-align: center; /* Rata tengah teks */
 }
 
 .prestasi-description {
-  margin-top: 10px;
   font-size: 16px;
-  color: #555;
-  max-width: 80%;
   line-height: 1.6;
-  text-align: center;
+}
+
+/* Responsivitas untuk layar kecil */
+@media (max-width: 768px) {
+  .prestasi-content {
+    flex-direction: column; /* Ubah menjadi vertikal di layar kecil */
+    gap: 10px;
+  }
+
+  .prestasi-image,
+  .prestasi-video {
+    max-width: 90%;
+  }
+
+  .prestasi-text {
+    font-size: 24px;
+  }
+
+  .prestasi-description-box {
+    padding: 15px;
+    font-size: 14px;
+  }
 }

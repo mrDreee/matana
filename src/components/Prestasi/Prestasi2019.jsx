@@ -1,31 +1,36 @@
 import React from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
+import BackButton from "../../components/BackButton"; // Import komponen BackButton
 import "./PrestasiDetail.css";
 
-const PrestasiDetail = () => {
+const Prestasi2024 = () => {
   const { year } = useParams(); // Ambil parameter tahun dari URL
 
   return (
     <div className="prestasi-container">
-      <div className="header-row">
-        <Link to="/prestasi" className="back-button">← Back</Link>
-        <h1 className="prestasi-header">PRESTASI {year}</h1>
+      <BackButton to="/prestasi" /> {/* Gunakan tombol Back global */}
+      <header className="prestasi-header">
+        <h1 className="prestasi-text">PRESTASI {year}</h1>
+      </header>
+      <div className="prestasi-content">
+        <img
+          src={`/assets/prestasi/2019/alsut2017.jpeg`}
+          alt={`Prestasi ${year}`}
+          className="prestasi-image"
+        />
+        <video
+          className="prestasi-video"
+          controls
+        >
+          <source src={`/assets/prestasi/video.mp4`} type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
       </div>
-      <img
-        src={`/assets/prestasi/${year}/image.jpg`} // Sesuaikan path gambar berdasarkan tahun
-        alt={`Prestasi ${year}`}
-        className="prestasi-image"
-      />
-      <video
-        className="prestasi-video"
-        controls
-      >
-        <source src={`/assets/prestasi/${year}/video.mp4`} type="video/mp4" /> {/* Sesuaikan path video berdasarkan tahun */}
-        Your browser does not support the video tag.
-      </video>
-      <p className="prestasi-description">Penjelasan Prestasi {year}</p>
+      <div className="prestasi-description-box">
+        <p className="prestasi-description">Seorang anak yg berhasil meraih mimpinya</p>
+      </div>
     </div>
   );
 };
 
-export default PrestasiDetail;
+export default Prestasi2024;

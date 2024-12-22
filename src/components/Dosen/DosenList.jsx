@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import BackButton from "../../components/BackButton";
 import dosenData from "../../data/Dosen/dosen.json";
 import "../../CSS/Dosen.css";
 
@@ -13,7 +14,7 @@ const DosenList = () => {
   return (
     <div className="dosen-details-container">
       <div className="header-row">
-        <Link to="/menu" className="dosen-back-button">←</Link>
+      <BackButton to="/menu" />
         <h1 className="header-title">DAFTAR DOSEN</h1>
       </div>
       <div className="dosen-scroll-container">

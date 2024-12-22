@@ -1,5 +1,6 @@
 import React from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
+import BackButton from "../../components/BackButton";
 import dosenData from "../../data/Dosen/dosen.json";
 import "../../CSS/DosenDetail.css";
 
@@ -14,9 +15,7 @@ const DosenDetail = () => {
 
   return (
     <div className="dosen-detail-container">
-      <Link to="/dosen" className="back-button">
-        ←
-      </Link>
+      <BackButton to="/dosen" />
       <div className="dosen-detail">
         <h2>{dosen.name}</h2>
         <p>NIDN: {dosen.nidn}</p>
