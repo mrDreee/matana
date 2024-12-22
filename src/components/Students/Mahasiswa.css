@@ -1,0 +1,88 @@
+.mahasiswa-details-container {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin: 0 auto;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+}
+
+.students-scroll-container {
+  max-height: 500px;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.students-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.student-card {
+  background-color: #f0f8ff;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.student-photo {
+  height: 151.18110236px;
+  width: 113.38582677px;
+  border-radius: 0%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.student-info {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+.mahasiswa-back-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mahasiswa-back-button {
+  background-color: #007bff;
+}
+
+.mahasiswa-back-button:hover {
+  background-color: #0056b3;
+}
+
+.home-button {
+  background-color: #28a745;
+}
+
+.home-button:hover {
+  background-color: #1c7c31;
+}

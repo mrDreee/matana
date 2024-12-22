@@ -1,0 +1,39 @@
+ .grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  }
+  
+  .grid-item {
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease-in-out;
+  position: relative
+  }
+
+  .grid-item:hover {
+    transform: scale(1.1);
+  }
+  
+  .folder-icon {
+    width: 240px;
+    height: 240px;
+  }
+  
+  .year-text {
+  position: absolute; /* Buat teks sebagai elemen absolut */
+  top: 50%; /* Letakkan di tengah secara vertikal */
+  left: 50%; /* Letakkan di tengah secara horizontal */
+  transform: translate(-50%, -50%); /* Pastikan benar-benar di tengah */
+  font-size: 16px; /* Tetap gunakan ukuran font yang sama */
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  pointer-events: none; /* Supaya teks tidak mengganggu hover */
+}
+
+ 

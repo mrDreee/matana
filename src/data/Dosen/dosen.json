@@ -1,0 +1,110 @@
+[
+    {
+      "id": 3,
+      "name": "Nama Dosen 3",
+      "nidn": "345678",
+      "nip": "765432",
+      "bidang": "Data Science, Cloud Computing",
+      "photo": "fiola2015.jpeg",
+      "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+    },
+      {
+        "id": 1,
+        "name": "Ary Budi Warsito",
+        "nidn": "123456",
+        "nip": "987654",
+        "bidang": "Database, Web Programming, Mobile Programming, ML, AI",
+        "photo": "roni2015.jpeg",
+        "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+      },
+      {
+        "id": 2,
+        "name": "Nama Dosen 2",
+        "nidn": "234567",
+        "nip": "876543",
+        "bidang": "Networking, Cybersecurity",
+        "photo": "markom2015.jpeg",
+        "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+      },
+        {
+          "id": 3,
+          "name": "Nama Dosen 3",
+          "nidn": "345678",
+          "nip": "765432",
+          "bidang": "Data Science, Cloud Computing",
+          "photo": "fiola2015.jpeg",
+          "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+        },
+          {
+            "id": 1,
+            "name": "Ary Budi Warsito",
+            "nidn": "123456",
+            "nip": "987654",
+            "bidang": "Database, Web Programming, Mobile Programming, ML, AI",
+            "photo": "roni2015.jpeg",
+            "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+          },
+          {
+            "id": 2,
+            "name": "Nama Dosen 2",
+            "nidn": "234567",
+            "nip": "876543",
+            "bidang": "Networking, Cybersecurity",
+            "photo": "markom2015.jpeg",
+            "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+          },
+            {
+              "id": 3,
+              "name": "Nama Dosen 3",
+              "nidn": "345678",
+              "nip": "765432",
+              "bidang": "Data Science, Cloud Computing",
+              "photo": "fiola2015.jpeg",
+              "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+            },
+              {
+                "id": 1,
+                "name": "Ary Budi Warsito",
+                "nidn": "123456",
+                "nip": "987654",
+                "bidang": "Database, Web Programming, Mobile Programming, ML, AI",
+                "photo": "roni2015.jpeg",
+                "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+              },
+              {
+                "id": 2,
+                "name": "Nama Dosen 2",
+                "nidn": "234567",
+                "nip": "876543",
+                "bidang": "Networking, Cybersecurity",
+                "photo": "markom2015.jpeg",
+                "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+              },
+                {
+                  "id": 3,
+                  "name": "Nama Dosen 3",
+                  "nidn": "345678",
+                  "nip": "765432",
+                  "bidang": "Data Science, Cloud Computing",
+                  "photo": "fiola2015.jpeg",
+                  "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+                },
+                  {
+                    "id": 1,
+                    "name": "Ary Budi Warsito",
+                    "nidn": "123456",
+                    "nip": "987654",
+                    "bidang": "Database, Web Programming, Mobile Programming, ML, AI",
+                    "photo": "roni2015.jpeg",
+                    "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Nama Dosen 2",
+                    "nidn": "234567",
+                    "nip": "876543",
+                    "bidang": "Networking, Cybersecurity",
+                    "photo": "markom2015.jpeg",
+                    "scholarLink": "https://scholar.google.com/citations?user=XXXXXX"
+                  }
+                ]

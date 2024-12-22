@@ -1,0 +1,149 @@
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.content-layout {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  width: 100%;
+}
+
+.left-panel, .center-panel, .right-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border: 1px solid #4dd0e1;
+  background-color: #e0f7fa;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.center-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  height: 100%;
+  margin-top: 4cm;
+}
+
+.center-panel video {
+  width: 350px;
+  height: 600px;
+  border: 1px solid #4dd0e1;
+  background-color: #e0f7fa;
+  border-radius: 8px;
+  margin-top: 1.5cm;
+}
+
+.center-panel .menu-button {
+  padding: 10px 20px;
+  background-color: #1976d2;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  align-self: center
+}
+
+.center-panel .menu-button:hover {
+  background-color: #0d47a1;
+}
+
+.visi {
+  line-height: 1.5;
+  color: #004d40;
+}
+
+.right-panel {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #004d40;
+}
+
+.box p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #004d40;
+}
+
+.isi-visi {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #004d40;
+}
+
+.video-element {
+  animation: linear infinite;
+}
+
+.right-panel .box table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.right-panel .box table th,
+.right-panel .box table td {
+  border: 1px solid #ffcc80;
+  padding: 8px;
+  text-align: left;
+}
+
+.right-panel .box table th {
+  background-color: #ffe0b2;
+  font-weight: bold;
+}
+
+.scrollable-box {
+  width: 300px;
+  height: 300px;
+  overflow-y: auto;
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.cbn {
+  max-height: 3cm;
+}
+
+.video-wrapper {
+  position: relative;
+  width: 750px;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}

@@ -1,0 +1,97 @@
+.dosen-details-container {
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between; /* Back di kiri, Home di kanan */
+  align-items: center; /* Pastikan teks berada di tengah */
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+.header-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.dosen-scroll-container {
+  max-height: 500px; /* Batasi tinggi maksimal */
+  overflow-y: auto; /* Aktifkan scroll vertikal */
+  padding: 10px;
+}
+
+.dosen-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px; /* Jarak antar kartu dosen */
+  justify-content: center; /* Pusatkan daftar kartu dosen */
+}
+
+.dosen-card {
+  background-color: #f0f8ff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.dosen-photo {
+  height: 151.18110236px;
+  width: 113.38582677px;
+  border-radius: 0%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.dosen-info {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.dosen-back-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #007bff;
+}
+
+.dosen-back-button:hover {
+  background-color: #0056b3;
+}
+
+.dosen-button {
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #007bff;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.dosen-button:hover {
+  background-color: #0056b3;
+}
+
+.dosen-detail-container {
+  background-color: rgba(0, 0, 0, 0.1);
+}

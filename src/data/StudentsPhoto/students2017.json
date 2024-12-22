@@ -1,0 +1,1579 @@
+[
+    {
+      "id": 1,
+      "name": "Alsut",
+      "nim": "2017123456",
+      "tahunLulus": "2021",
+      "photo": "alsut2017.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Andre",
+      "nim": "2017123457",
+      "tahunLulus": "2021",
+      "photo": "andre2017.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Andre2",
+      "nim": "2017123458",
+      "tahunLulus": "2021",
+      "photo": "andre22017.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Broadway",
+      "nim": "2017123459",
+      "tahunLulus": "2021",
+      "photo": "broadway2017.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Fags",
+      "nim": "2017123460",
+      "tahunLulus": "2021",
+      "photo": "fags2017.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Fawgs",
+      "nim": "2017123461",
+      "tahunLulus": "2021",
+      "photo": "fawgs2017.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Fiola",
+      "nim": "2017123462",
+      "tahunLulus": "2021",
+      "photo": "fiola2017.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Holan",
+      "nim": "2017123463",
+      "tahunLulus": "2021",
+      "photo": "holan2017.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Jeriko",
+      "nim": "2017123464",
+      "tahunLulus": "2021",
+      "photo": "jeriko2017.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Mikel",
+      "nim": "2017123465",
+      "tahunLulus": "2021",
+      "photo": "mikel2017.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Pidol",
+      "nim": "2017123466",
+      "tahunLulus": "2021",
+      "photo": "pidol2017.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Pidol Old",
+      "nim": "2017123467",
+      "tahunLulus": "2021",
+      "photo": "pidoldol2017.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Richard",
+      "nim": "2017123468",
+      "tahunLulus": "2021",
+      "photo": "richard2017.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Verio",
+      "nim": "2017123469",
+      "tahunLulus": "2021",
+      "photo": "verio2017.jpeg"
+    },
+  {
+    "id": 1,
+    "name": "Alsut",
+    "nim": "2017123456",
+    "tahunLulus": "2021",
+    "photo": "alsut2017.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Andre",
+    "nim": "2017123457",
+    "tahunLulus": "2021",
+    "photo": "andre2017.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Andre2",
+    "nim": "2017123458",
+    "tahunLulus": "2021",
+    "photo": "andre22017.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Broadway",
+    "nim": "2017123459",
+    "tahunLulus": "2021",
+    "photo": "broadway2017.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Fags",
+    "nim": "2017123460",
+    "tahunLulus": "2021",
+    "photo": "fags2017.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Fawgs",
+    "nim": "2017123461",
+    "tahunLulus": "2021",
+    "photo": "fawgs2017.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Fiola",
+    "nim": "2017123462",
+    "tahunLulus": "2021",
+    "photo": "fiola2017.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Holan",
+    "nim": "2017123463",
+    "tahunLulus": "2021",
+    "photo": "holan2017.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Jeriko",
+    "nim": "2017123464",
+    "tahunLulus": "2021",
+    "photo": "jeriko2017.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Mikel",
+    "nim": "2017123465",
+    "tahunLulus": "2021",
+    "photo": "mikel2017.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Pidol",
+    "nim": "2017123466",
+    "tahunLulus": "2021",
+    "photo": "pidol2017.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Pidol Old",
+    "nim": "2017123467",
+    "tahunLulus": "2021",
+    "photo": "pidoldol2017.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Richard",
+    "nim": "2017123468",
+    "tahunLulus": "2021",
+    "photo": "richard2017.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Verio",
+    "nim": "2017123469",
+    "tahunLulus": "2021",
+    "photo": "verio2017.jpeg"
+  },
+
+  {
+    "id": 1,
+    "name": "Alsut",
+    "nim": "2017123456",
+    "tahunLulus": "2021",
+    "photo": "alsut2017.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Andre",
+    "nim": "2017123457",
+    "tahunLulus": "2021",
+    "photo": "andre2017.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Andre2",
+    "nim": "2017123458",
+    "tahunLulus": "2021",
+    "photo": "andre22017.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Broadway",
+    "nim": "2017123459",
+    "tahunLulus": "2021",
+    "photo": "broadway2017.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Fags",
+    "nim": "2017123460",
+    "tahunLulus": "2021",
+    "photo": "fags2017.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Fawgs",
+    "nim": "2017123461",
+    "tahunLulus": "2021",
+    "photo": "fawgs2017.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Fiola",
+    "nim": "2017123462",
+    "tahunLulus": "2021",
+    "photo": "fiola2017.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Holan",
+    "nim": "2017123463",
+    "tahunLulus": "2021",
+    "photo": "holan2017.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Jeriko",
+    "nim": "2017123464",
+    "tahunLulus": "2021",
+    "photo": "jeriko2017.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Mikel",
+    "nim": "2017123465",
+    "tahunLulus": "2021",
+    "photo": "mikel2017.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Pidol",
+    "nim": "2017123466",
+    "tahunLulus": "2021",
+    "photo": "pidol2017.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Pidol Old",
+    "nim": "2017123467",
+    "tahunLulus": "2021",
+    "photo": "pidoldol2017.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Richard",
+    "nim": "2017123468",
+    "tahunLulus": "2021",
+    "photo": "richard2017.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Verio",
+    "nim": "2017123469",
+    "tahunLulus": "2021",
+    "photo": "verio2017.jpeg"
+  },
+{
+  "id": 1,
+  "name": "Alsut",
+  "nim": "2017123456",
+  "tahunLulus": "2021",
+  "photo": "alsut2017.jpeg"
+},
+{
+  "id": 2,
+  "name": "Andre",
+  "nim": "2017123457",
+  "tahunLulus": "2021",
+  "photo": "andre2017.jpeg"
+},
+{
+  "id": 3,
+  "name": "Andre2",
+  "nim": "2017123458",
+  "tahunLulus": "2021",
+  "photo": "andre22017.jpeg"
+},
+{
+  "id": 4,
+  "name": "Broadway",
+  "nim": "2017123459",
+  "tahunLulus": "2021",
+  "photo": "broadway2017.jpeg"
+},
+{
+  "id": 5,
+  "name": "Fags",
+  "nim": "2017123460",
+  "tahunLulus": "2021",
+  "photo": "fags2017.jpeg"
+},
+{
+  "id": 6,
+  "name": "Fawgs",
+  "nim": "2017123461",
+  "tahunLulus": "2021",
+  "photo": "fawgs2017.jpeg"
+},
+{
+  "id": 7,
+  "name": "Fiola",
+  "nim": "2017123462",
+  "tahunLulus": "2021",
+  "photo": "fiola2017.jpeg"
+},
+{
+  "id": 8,
+  "name": "Holan",
+  "nim": "2017123463",
+  "tahunLulus": "2021",
+  "photo": "holan2017.jpeg"
+},
+{
+  "id": 9,
+  "name": "Jeriko",
+  "nim": "2017123464",
+  "tahunLulus": "2021",
+  "photo": "jeriko2017.jpeg"
+},
+{
+  "id": 10,
+  "name": "Mikel",
+  "nim": "2017123465",
+  "tahunLulus": "2021",
+  "photo": "mikel2017.jpeg"
+},
+{
+  "id": 11,
+  "name": "Pidol",
+  "nim": "2017123466",
+  "tahunLulus": "2021",
+  "photo": "pidol2017.jpeg"
+},
+{
+  "id": 12,
+  "name": "Pidol Old",
+  "nim": "2017123467",
+  "tahunLulus": "2021",
+  "photo": "pidoldol2017.jpeg"
+},
+{
+  "id": 13,
+  "name": "Richard",
+  "nim": "2017123468",
+  "tahunLulus": "2021",
+  "photo": "richard2017.jpeg"
+},
+{
+  "id": 14,
+  "name": "Verio",
+  "nim": "2017123469",
+  "tahunLulus": "2021",
+  "photo": "verio2017.jpeg"
+},
+
+{
+  "id": 1,
+  "name": "Alsut",
+  "nim": "2017123456",
+  "tahunLulus": "2021",
+  "photo": "alsut2017.jpeg"
+},
+{
+  "id": 2,
+  "name": "Andre",
+  "nim": "2017123457",
+  "tahunLulus": "2021",
+  "photo": "andre2017.jpeg"
+},
+{
+  "id": 3,
+  "name": "Andre2",
+  "nim": "2017123458",
+  "tahunLulus": "2021",
+  "photo": "andre22017.jpeg"
+},
+{
+  "id": 4,
+  "name": "Broadway",
+  "nim": "2017123459",
+  "tahunLulus": "2021",
+  "photo": "broadway2017.jpeg"
+},
+{
+  "id": 5,
+  "name": "Fags",
+  "nim": "2017123460",
+  "tahunLulus": "2021",
+  "photo": "fags2017.jpeg"
+},
+{
+  "id": 6,
+  "name": "Fawgs",
+  "nim": "2017123461",
+  "tahunLulus": "2021",
+  "photo": "fawgs2017.jpeg"
+},
+{
+  "id": 7,
+  "name": "Fiola",
+  "nim": "2017123462",
+  "tahunLulus": "2021",
+  "photo": "fiola2017.jpeg"
+},
+{
+  "id": 8,
+  "name": "Holan",
+  "nim": "2017123463",
+  "tahunLulus": "2021",
+  "photo": "holan2017.jpeg"
+},
+{
+  "id": 9,
+  "name": "Jeriko",
+  "nim": "2017123464",
+  "tahunLulus": "2021",
+  "photo": "jeriko2017.jpeg"
+},
+{
+  "id": 10,
+  "name": "Mikel",
+  "nim": "2017123465",
+  "tahunLulus": "2021",
+  "photo": "mikel2017.jpeg"
+},
+{
+  "id": 11,
+  "name": "Pidol",
+  "nim": "2017123466",
+  "tahunLulus": "2021",
+  "photo": "pidol2017.jpeg"
+},
+{
+  "id": 12,
+  "name": "Pidol Old",
+  "nim": "2017123467",
+  "tahunLulus": "2021",
+  "photo": "pidoldol2017.jpeg"
+},
+{
+  "id": 13,
+  "name": "Richard",
+  "nim": "2017123468",
+  "tahunLulus": "2021",
+  "photo": "richard2017.jpeg"
+},
+{
+  "id": 14,
+  "name": "Verio",
+  "nim": "2017123469",
+  "tahunLulus": "2021",
+  "photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+{
+  "id": 1,
+  "name": "Alsut",
+  "nim": "2017123456",
+  "tahunLulus": "2021",
+  "photo": "alsut2017.jpeg"
+},
+{
+  "id": 2,
+  "name": "Andre",
+  "nim": "2017123457",
+  "tahunLulus": "2021",
+  "photo": "andre2017.jpeg"
+},
+{
+  "id": 3,
+  "name": "Andre2",
+  "nim": "2017123458",
+  "tahunLulus": "2021",
+  "photo": "andre22017.jpeg"
+},
+{
+  "id": 4,
+  "name": "Broadway",
+  "nim": "2017123459",
+  "tahunLulus": "2021",
+  "photo": "broadway2017.jpeg"
+},
+{
+  "id": 5,
+  "name": "Fags",
+  "nim": "2017123460",
+  "tahunLulus": "2021",
+  "photo": "fags2017.jpeg"
+},
+{
+  "id": 6,
+  "name": "Fawgs",
+  "nim": "2017123461",
+  "tahunLulus": "2021",
+  "photo": "fawgs2017.jpeg"
+},
+{
+  "id": 7,
+  "name": "Fiola",
+  "nim": "2017123462",
+  "tahunLulus": "2021",
+  "photo": "fiola2017.jpeg"
+},
+{
+  "id": 8,
+  "name": "Holan",
+  "nim": "2017123463",
+  "tahunLulus": "2021",
+  "photo": "holan2017.jpeg"
+},
+{
+  "id": 9,
+  "name": "Jeriko",
+  "nim": "2017123464",
+  "tahunLulus": "2021",
+  "photo": "jeriko2017.jpeg"
+},
+{
+  "id": 10,
+  "name": "Mikel",
+  "nim": "2017123465",
+  "tahunLulus": "2021",
+  "photo": "mikel2017.jpeg"
+},
+{
+  "id": 11,
+  "name": "Pidol",
+  "nim": "2017123466",
+  "tahunLulus": "2021",
+  "photo": "pidol2017.jpeg"
+},
+{
+  "id": 12,
+  "name": "Pidol Old",
+  "nim": "2017123467",
+  "tahunLulus": "2021",
+  "photo": "pidoldol2017.jpeg"
+},
+{
+  "id": 13,
+  "name": "Richard",
+  "nim": "2017123468",
+  "tahunLulus": "2021",
+  "photo": "richard2017.jpeg"
+},
+{
+  "id": 14,
+  "name": "Verio",
+  "nim": "2017123469",
+  "tahunLulus": "2021",
+  "photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+},
+{
+"id": 1,
+"name": "Alsut",
+"nim": "2017123456",
+"tahunLulus": "2021",
+"photo": "alsut2017.jpeg"
+},
+{
+"id": 2,
+"name": "Andre",
+"nim": "2017123457",
+"tahunLulus": "2021",
+"photo": "andre2017.jpeg"
+},
+{
+"id": 3,
+"name": "Andre2",
+"nim": "2017123458",
+"tahunLulus": "2021",
+"photo": "andre22017.jpeg"
+},
+{
+"id": 4,
+"name": "Broadway",
+"nim": "2017123459",
+"tahunLulus": "2021",
+"photo": "broadway2017.jpeg"
+},
+{
+"id": 5,
+"name": "Fags",
+"nim": "2017123460",
+"tahunLulus": "2021",
+"photo": "fags2017.jpeg"
+},
+{
+"id": 6,
+"name": "Fawgs",
+"nim": "2017123461",
+"tahunLulus": "2021",
+"photo": "fawgs2017.jpeg"
+},
+{
+"id": 7,
+"name": "Fiola",
+"nim": "2017123462",
+"tahunLulus": "2021",
+"photo": "fiola2017.jpeg"
+},
+{
+"id": 8,
+"name": "Holan",
+"nim": "2017123463",
+"tahunLulus": "2021",
+"photo": "holan2017.jpeg"
+},
+{
+"id": 9,
+"name": "Jeriko",
+"nim": "2017123464",
+"tahunLulus": "2021",
+"photo": "jeriko2017.jpeg"
+},
+{
+"id": 10,
+"name": "Mikel",
+"nim": "2017123465",
+"tahunLulus": "2021",
+"photo": "mikel2017.jpeg"
+},
+{
+"id": 11,
+"name": "Pidol",
+"nim": "2017123466",
+"tahunLulus": "2021",
+"photo": "pidol2017.jpeg"
+},
+{
+"id": 12,
+"name": "Pidol Old",
+"nim": "2017123467",
+"tahunLulus": "2021",
+"photo": "pidoldol2017.jpeg"
+},
+{
+"id": 13,
+"name": "Richard",
+"nim": "2017123468",
+"tahunLulus": "2021",
+"photo": "richard2017.jpeg"
+},
+{
+"id": 14,
+"name": "Verio",
+"nim": "2017123469",
+"tahunLulus": "2021",
+"photo": "verio2017.jpeg"
+}
+]
+
+
+  

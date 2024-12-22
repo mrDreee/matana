@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Comsit",
+    "startDate": "07-12-2024",
+    "endDate": "08-12-2024",
+    "status": "Selesai"
+  },
+  {
+    "name": "Workshop AI",
+    "startDate": "15-12-2024",
+    "endDate": "16-12-2024",
+    "status": "Belum"
+  },
+  {
+    "name": "Seminar Cloud Computing",
+    "startDate": "20-12-2024",
+    "endDate": "21-12-2024",
+    "status": "Belum"
+  },
+  {
+    "name": "Pelatihan Cybersecurity",
+    "startDate": "22-12-2024",
+    "endDate": "23-12-2024",
+    "status": "Belum"
+  },
+  {
+    "name": "Comsit",
+    "startDate": "07-12-2024",
+    "endDate": "08-12-2024",
+    "status": "Selesai"
+  },
+  {
+    "name": "Workshop AI",
+    "startDate": "15-12-2024",
+    "endDate": "16-12-2024",
+    "status": "Belum"
+  },
+  {
+    "name": "Seminar Cloud Computing",
+    "startDate": "20-12-2024",
+    "endDate": "21-12-2024",
+    "status": "Belum"
+  },
+  {
+    "name": "Pelatihan Cybersecurity",
+    "startDate": "22-12-2024",
+    "endDate": "23-12-2024",
+    "status": "Belum"
+  }
+]

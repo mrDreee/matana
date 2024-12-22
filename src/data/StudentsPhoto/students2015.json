@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Fiola",
+      "nim": "12345678",
+      "tahunLulus": "2019",
+      "photo": "fiola2015.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "nim": "87654321",
+      "tahunLulus": "2020",
+      "photo": "roni2015.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Jane Smith",
+      "nim": "11223344",
+      "tahunLulus": "2021",
+      "photo": "markom2015.jpeg"
+    }
+  ]
+  
