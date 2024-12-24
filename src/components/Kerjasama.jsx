@@ -14,8 +14,7 @@ const Kerjasama = () => {
     <div className="kerjasama-container">
       <header className="kerjasama-header">
         <h1 className="kerjasama-title">KERJASAMA</h1>
-
-        {/* Tombol Back ke Menu hanya muncul di halaman pertama */}
+        
         {!selectedMitra && (
           <Link to="/menu">
             <button className="back-button">
@@ -25,7 +24,6 @@ const Kerjasama = () => {
         )}
       </header>
 
-      {/* Tampilan awal jika belum memilih mitra */}
       {!selectedMitra ? (
         <div className="mitra-grid">
           {mitraData.map((mitra, index) => (
