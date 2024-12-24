@@ -1,20 +1,20 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom"; // Import Link untuk navigasi
-import mitraData from "../data/mitra.json"; // Data JSON untuk mitra
-import "../CSS/Kerjasama.css"; // File CSS untuk styling
+import { Link } from "react-router-dom";
+import mitraData from "../data/mitra.json";
+import "../CSS/Kerjasama.css";
 
 const Kerjasama = () => {
-  const [selectedMitra, setSelectedMitra] = useState(null); // State untuk mitra yang dipilih
+  const [selectedMitra, setSelectedMitra] = useState(null);
 
   const handleBack = () => {
-    setSelectedMitra(null); // Mengembalikan ke tampilan awal
+    setSelectedMitra(null);
   };
 
   return (
     <div className="kerjasama-container">
       <header className="kerjasama-header">
         <h1 className="kerjasama-title">KERJASAMA</h1>
-        
+
         {!selectedMitra && (
           <Link to="/menu">
             <button className="back-button">
@@ -38,7 +38,7 @@ const Kerjasama = () => {
           ))}
         </div>
       ) : (
-        // Tampilan detail saat mitra dipilih
+        
         <div className="mitra-detail">
           <button className="back-button" onClick={handleBack}>
             &#8592;

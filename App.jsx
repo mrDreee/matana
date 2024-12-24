@@ -2,8 +2,6 @@ import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import AppRoutes from "./routes.jsx";
 import "./App.css";
-import matana from "./assets/matana.png";
-import hmj from "./assets/hmj.png";
 
 
 function App() {

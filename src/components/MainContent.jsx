@@ -95,7 +95,7 @@ function MainContent() {
         </div>
 
           <div className="box">
-            <h2>Teks Misi</h2>
+            <h2>Misi</h2>
             <p>
               Membentuk lulusan yang memiliki jiwa kepemimpinan serta
               berdedikasi pada perilaku etis, bertanggung jawab berlandaskan
