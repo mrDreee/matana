@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Mitra 1",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 1 meliputi pengembangan teknologi dan pendidikan."
+    },
+    {
+      "id": 2,
+      "name": "Mitra 2",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 2 dalam bidang kesehatan dan pelayanan masyarakat."
+    },
+    {
+      "id": 3,
+      "name": "Mitra 3",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 3 fokus pada lingkungan dan keberlanjutan."
+    },
+    {
+      "id": 4,
+      "name": "Mitra 4",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 4 untuk pengembangan startup dan bisnis lokal."
+    },
+    {
+      "id": 5,
+      "name": "Mitra 5",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 5 dalam bidang pendidikan dan pelatihan profesional."
+    },
+    {
+      "id": 6,
+      "name": "Mitra 6",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 6 dalam teknologi informasi dan sistem digital."
+    },
+    {
+      "id": 7,
+      "name": "Mitra 7",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 7 untuk penelitian ilmiah dan inovasi."
+    },
+    {
+      "id": 8,
+      "name": "Mitra 8",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 8 dalam bidang perbankan dan keuangan."
+    },
+    {
+      "id": 9,
+      "name": "Mitra 9",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 9 fokus pada pengembangan energi terbarukan."
+    },
+    {
+      "id": 10,
+      "name": "Mitra 10",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 10 dalam bidang hiburan dan media."
+    },
+    {
+      "id": 11,
+      "name": "Mitra 11",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 11 dalam pengembangan produk dan layanan baru."
+    },
+    {
+      "id": 12,
+      "name": "Mitra 12",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 12 untuk pengembangan sektor pertanian."
+    },
+    {
+      "id": 13,
+      "name": "Mitra 13",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 13 dalam bidang transportasi dan logistik."
+    },
+    {
+      "id": 14,
+      "name": "Mitra 14",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 14 untuk pengembangan smart city dan infrastruktur."
+    },
+    {
+      "id": 15,
+      "name": "Mitra 15",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 15 dalam sektor pariwisata dan budaya."
+    },
+    {
+      "id": 16,
+      "name": "Mitra 16",
+      "image": "assets/Students2015/roni2015.jpeg",
+      "description": "Kerjasama dengan Mitra 16 untuk inovasi dalam dunia kesehatan digital."
+    }
+  ]
+  
